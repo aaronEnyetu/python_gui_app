@@ -5,11 +5,19 @@ import os
 
 
 root = tk.Tk()
+apps = []
 
 
 def addApp():
     filename = filedialog.askopenfilename(initialdir='/', title='Select File',
                                            filetypes=(('executables','*.exe'), ('all files', '*.*')))
+    
+    apps.append(filename)
+    print(filename)
+
+    for app in apps:
+        label = tk.Label(frame, text=app, bg='gray')
+        label.pack()
 
 
 
