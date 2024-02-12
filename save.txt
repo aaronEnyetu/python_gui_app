@@ -1,1 +1,1 @@
-C:/Users/aaron/Downloads/tesseract-ocr-w64-setup-5.3.3.20231005.exe,C:/Users/aaron/Downloads/dotnet-sdk-8.0.101-win-x64.exe,
+C:/Users/aaron/Downloads/tesseract-ocr-w64-setup-5.3.3.20231005.exe,C:/Users/aaron/Downloads/dotnet-sdk-8.0.101-win-x64.exe,,C:/Users/aaron/Downloads/tesseract-ocr-w64-setup-5.3.3.20231005.exe,,C:/Users/aaron/Downloads/PixillionImageConverter.exe,
